@@ -1,6 +1,6 @@
 # Extended Netflix
 
-![Example](https://github.com/jontonsoup4/extended-netflix/blob/master/screenshots/Example.jpg)
+<img src="https://github.com/jontonsoup4/extended-netflix/raw/master/screenshots/Example.jpg" alt="Example" style="width: 200px;">
 
 Chrome extension for adding extended browsing categories to Netflix. 
 This extension adds a dropdown field containing a long list of all of
