@@ -1,5 +1,5 @@
 function loadJSON() {
-    var xhr = new XMLHttpRequest;
+    var xhr = new XMLHttpRequest();
     xhr.open("GET", chrome.runtime.getURL("data/categories.json"));
     xhr.onreadystatechange = function() {
         if (this.readyState == 4) {
@@ -44,7 +44,7 @@ function init() {
             }
         }
         if (builder.length === 0){
-            builder.push('No matching genres...')
+            builder.push('No matching genres...');
         }
         extendedNetflixList.innerHTML = builder.join('');
     }
