@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Extended Netflix",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Add extra browsing fields to Netflix",
+    "description": "The description of the application"
+  }
+}

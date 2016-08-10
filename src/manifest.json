@@ -1,0 +1,22 @@
+{
+  "name": "Extended Netflix",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Extended browsing categories for Netflix",
+  "icons": {
+    "16": "images/icon-16.png",
+    "128": "images/icon-128.png"
+  },
+  "default_locale": "en",
+  "web_accessible_resources": [
+    "data/full-categories.json",
+    "data/categories.json"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.netflix.com/browse/*"],
+      "css": ["scripts/main.css"],
+      "js": ["scripts/main.js"]
+    }
+  ]
+}
