@@ -4,7 +4,7 @@
   "description": "Extended browsing categories for Netflix",
   "main": "src/scripts/main.js",
   "scripts": {
-    "start": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp"
   },
   "repository": {
     "type": "git",
