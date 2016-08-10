@@ -1,5 +1,7 @@
 # Extended Netflix
 
+![Example](https://github.com/jontonsoup4/extended-netflix/blob/master/screenshots/Example.jpg)
+
 Chrome extension for adding extended browsing categories to Netflix. 
 This extension adds a dropdown field containing a long list of all of
 the major subgenres that Netflix usually hides. The dropdown also contains
@@ -9,6 +11,7 @@ is a highly experimental configuration that has to be manually enabled.
 
 # How to build
     gulp
+
 
 # Contributing
 
