@@ -31,7 +31,6 @@ function init() {
 
     function build(value) {
         var categories = window.extendedCategories;
-        console.log(categories);
         var previousLetter = "";
         var extendedNetflixList = document.getElementById("extended-netflix-list");
         var builder = [];
