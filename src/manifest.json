@@ -1,12 +1,13 @@
 {
   "name": "Extended Netflix",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "manifest_version": 2,
   "description": "Extended browsing categories for Netflix",
   "icons": {
     "16": "icons/icon-16.png",
     "128": "icons/icon-128.png"
   },
+  "homepage_url": "https://github.com/jontonsoup4/extended-netflix",
   "default_locale": "en",
   "web_accessible_resources": [
     "data/categories.json",
