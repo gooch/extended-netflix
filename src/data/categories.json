@@ -1,212 +1,842 @@
-{
-  "Action &amp; Adventure" : "/browse/genre/1365",
-  "Action Comedies" : "/browse/genre/43040",
-  "Action Sci-Fi &amp; Fantasy" : "/browse/genre/1568",
-  "Action Thrillers" : "/browse/genre/43048",
-  "Adult Animation" : "/browse/genre/11881",
-  "Adventures" : "/browse/genre/7442",
-  "African Movies" : "/browse/genre/3761",
-  "Alien Sci-Fi" : "/browse/genre/3327",
-  "Animal Tales" : "/browse/genre/5507",
-  "Anime" : "/browse/genre/7424",
-  "Anime Action" : "/browse/genre/2653",
-  "Anime Comedies" : "/browse/genre/9302",
-  "Anime Dramas" : "/browse/genre/452",
-  "Anime Fantasy" : "/browse/genre/11146",
-  "Anime Features" : "/browse/genre/3063",
-  "Anime Horror" : "/browse/genre/10695",
-  "Anime Sci-Fi" : "/browse/genre/2729",
-  "Anime Series" : "/browse/genre/6721",
-  "Art House Movies" : "/browse/genre/29764",
-  "Asian Action Movies" : "/browse/genre/77232",
-  "Australian Movies" : "/browse/genre/5230",
-  "B-Horror Movies" : "/browse/genre/8195",
-  "Baseball Movies" : "/browse/genre/12339",
-  "Basketball Movies" : "/browse/genre/12762",
-  "Belgian Movies" : "/browse/genre/262",
-  "Biographical Documentaries" : "/browse/genre/3652",
-  "Biographical Dramas" : "/browse/genre/3179",
-  "Boxing Movies" : "/browse/genre/12443",
-  "British Movies" : "/browse/genre/10757",
-  "British TV Shows" : "/browse/genre/52117",
-  "Campy Movies" : "/browse/genre/1252",
-  "Children &amp; Family Movies" : "/browse/genre/783",
-  "Chinese Movies" : "/browse/genre/3960",
-  "Classic Action &amp; Adventure" : "/browse/genre/46576",
-  "Classic Comedies" : "/browse/genre/31694",
-  "Classic Dramas" : "/browse/genre/29809",
-  "Classic Foreign Movies" : "/browse/genre/32473",
-  "Classic Movies" : "/browse/genre/31574",
-  "Classic Musicals" : "/browse/genre/32392",
-  "Classic Romantic Movies" : "/browse/genre/31273",
-  "Classic Sci-Fi &amp; Fantasy" : "/browse/genre/47147",
-  "Classic Thrillers" : "/browse/genre/46588",
-  "Classic TV Shows" : "/browse/genre/46553",
-  "Classic War Movies" : "/browse/genre/48744",
-  "Classic Westerns" : "/browse/genre/47465",
-  "Comedies" : "/browse/genre/6548",
-  "Comic Book and Superhero Movies" : "/browse/genre/10118",
-  "Country &amp; Western/Folk" : "/browse/genre/1105",
-  "Courtroom Dramas" : "/browse/genre/528582748",
-  "Creature Features" : "/browse/genre/6895",
-  "Crime Action &amp; Adventure" : "/browse/genre/9584",
-  "Crime Documentaries" : "/browse/genre/9875",
-  "Crime Dramas" : "/browse/genre/6889",
-  "Crime Thrillers" : "/browse/genre/10499",
-  "Crime TV Shows" : "/browse/genre/26146",
-  "Cult Comedies" : "/browse/genre/9434",
-  "Cult Horror Movies" : "/browse/genre/10944",
-  "Cult Movies" : "/browse/genre/7627",
-  "Cult Sci-Fi &amp; Fantasy" : "/browse/genre/4734",
-  "Cult TV Shows" : "/browse/genre/74652",
-  "Dark Comedies" : "/browse/genre/869",
-  "Deep Sea Horror Movies" : "/browse/genre/45028",
-  "Disney" : "/browse/genre/67673",
-  "Disney Musicals" : "/browse/genre/59433",
-  "Documentaries" : "/browse/genre/6839",
-  "Dramas" : "/browse/genre/5763",
-  "Dramas based on Books" : "/browse/genre/4961",
-  "Dramas based on real life" : "/browse/genre/3653",
-  "Dutch Movies" : "/browse/genre/10606",
-  "Eastern European Movies" : "/browse/genre/5254",
-  "Education for Kids" : "/browse/genre/10659",
-  "Epics" : "/browse/genre/52858",
-  "Experimental Movies" : "/browse/genre/11079",
-  "Faith &amp; Spirituality" : "/browse/genre/26835",
-  "Faith &amp; Spirituality Movies" : "/browse/genre/52804",
-  "Family Features" : "/browse/genre/51056",
-  "Fantasy Movies" : "/browse/genre/9744",
-  "Film Noir" : "/browse/genre/7687",
-  "Food &amp; Travel TV" : "/browse/genre/72436",
-  "Football Movies" : "/browse/genre/12803",
-  "Foreign Action &amp; Adventure" : "/browse/genre/11828",
-  "Foreign Comedies" : "/browse/genre/4426",
-  "Foreign Documentaries" : "/browse/genre/5161",
-  "Foreign Dramas" : "/browse/genre/2150",
-  "Foreign Gay &amp; Lesbian Movies" : "/browse/genre/8243",
-  "Foreign Horror Movies" : "/browse/genre/8654",
-  "Foreign Movies" : "/browse/genre/7462",
-  "Foreign Sci-Fi &amp; Fantasy" : "/browse/genre/6485",
-  "Foreign Thrillers" : "/browse/genre/10306",
-  "French Movies" : "/browse/genre/58807",
-  "Gangster Movies" : "/browse/genre/31851",
-  "Gay &amp; Lesbian Dramas" : "/browse/genre/500",
-  "German Movies" : "/browse/genre/58886",
-  "Greek Movies" : "/browse/genre/61115",
-  "Historical Documentaries" : "/browse/genre/5349",
-  "Horror Comedy" : "/browse/genre/89585",
-  "Horror Movies" : "/browse/genre/8711",
-  "Independent Action &amp; Adventure" : "/browse/genre/11804",
-  "Independent Comedies" : "/browse/genre/4195",
-  "Independent Dramas" : "/browse/genre/384",
-  "Independent Movies" : "/browse/genre/7077",
-  "Independent Thrillers" : "/browse/genre/3269",
-  "Indian Movies" : "/browse/genre/10463",
-  "Irish Movies" : "/browse/genre/58750",
-  "Italian Movies" : "/browse/genre/8221",
-  "Japanese Movies" : "/browse/genre/10398",
-  "Jazz &amp; Easy Listening" : "/browse/genre/10271",
-  "Kids Faith &amp; Spirituality" : "/browse/genre/751423",
-  "Kids Music" : "/browse/genre/52843",
-  "Kids' TV" : "/browse/genre/27346",
-  "Korean Movies" : "/browse/genre/5685",
-  "Korean TV Shows" : "/browse/genre/67879",
-  "Late Night Comedies" : "/browse/genre/1402",
-  "Latin American Movies" : "/browse/genre/1613",
-  "Latin Music" : "/browse/genre/10741",
-  "Martial Arts Movies" : "/browse/genre/8985",
-  "Martial Arts, Boxing &amp; Wrestling" : "/browse/genre/6695",
-  "Middle Eastern Movies" : "/browse/genre/5875",
-  "Military Action &amp; Adventure" : "/browse/genre/2125",
-  "Military Documentaries" : "/browse/genre/4006",
-  "Military Dramas" : "/browse/genre/11",
-  "Military TV Shows" : "/browse/genre/25804",
-  "Miniseries" : "/browse/genre/4814",
-  "Mockumentaries" : "/browse/genre/26",
-  "Monster Movies" : "/browse/genre/947",
-  "Movies based on children's books" : "/browse/genre/10056",
-  "Movies for ages 0 to 2" : "/browse/genre/6796",
-  "Movies for ages 2 to 4" : "/browse/genre/6218",
-  "Movies for ages 5 to 7" : "/browse/genre/5455",
-  "Movies for ages 8 to 10" : "/browse/genre/561",
-  "Movies for ages 11 to 12" : "/browse/genre/6962",
-  "Music &amp; Concert Documentaries" : "/browse/genre/90361",
-  "Music" : "/browse/genre/1701",
-  "Musicals" : "/browse/genre/13335",
-  "Mysteries" : "/browse/genre/9994",
-  "New Zealand Movies" : "/browse/genre/63782",
-  "Period Pieces" : "/browse/genre/12123",
-  "Political Comedies" : "/browse/genre/2700",
-  "Political Documentaries" : "/browse/genre/7018",
-  "Political Dramas" : "/browse/genre/6616",
-  "Political Thrillers" : "/browse/genre/10504",
-  "Psychological Thrillers" : "/browse/genre/5505",
-  "Quirky Romance" : "/browse/genre/36103",
-  "Reality TV" : "/browse/genre/9833",
-  "Religious Documentaries" : "/browse/genre/10005",
-  "Rock &amp; Pop Concerts" : "/browse/genre/3278",
-  "Romantic Comedies" : "/browse/genre/5475",
-  "Romantic Dramas" : "/browse/genre/1255",
-  "Romantic Favorites" : "/browse/genre/502675",
-  "Romantic Foreign Movies" : "/browse/genre/7153",
-  "Romantic Independent Movies" : "/browse/genre/9916",
-  "Romantic Movies" : "/browse/genre/8883",
-  "Russian" : "/browse/genre/11567",
-  "Satanic Stories" : "/browse/genre/6998",
-  "Satires" : "/browse/genre/4922",
-  "Scandinavian Movies" : "/browse/genre/9292",
-  "Sci-Fi &amp; Fantasy" : "/browse/genre/1492",
-  "Sci-Fi Adventure" : "/browse/genre/6926",
-  "Sci-Fi Dramas" : "/browse/genre/3916",
-  "Sci-Fi Horror Movies" : "/browse/genre/1694",
-  "Sci-Fi Thrillers" : "/browse/genre/11014",
-  "Science &amp; Nature Documentaries" : "/browse/genre/2595",
-  "Science &amp; Nature TV" : "/browse/genre/52780",
-  "Screwball Comedies" : "/browse/genre/9702",
-  "Showbiz Dramas" : "/browse/genre/5012",
-  "Showbiz Musicals" : "/browse/genre/13573",
-  "Silent Movies" : "/browse/genre/53310",
-  "Slapstick Comedies" : "/browse/genre/10256",
-  "Slasher and Serial Killer Movies" : "/browse/genre/8646",
-  "Soccer Movies" : "/browse/genre/12549",
-  "Social &amp; Cultural Documentaries" : "/browse/genre/3675",
-  "Social Issue Dramas" : "/browse/genre/3947",
-  "Southeast Asian Movies" : "/browse/genre/9196",
-  "Spanish Movies" : "/browse/genre/58741",
-  "Spiritual Documentaries" : "/browse/genre/2760",
-  "Sports &amp; Fitness" : "/browse/genre/9327",
-  "Sports Comedies" : "/browse/genre/5286",
-  "Sports Documentaries" : "/browse/genre/180",
-  "Sports Dramas" : "/browse/genre/7243",
-  "Sports Movies" : "/browse/genre/4370",
-  "Spy Action &amp; Adventure" : "/browse/genre/10702",
-  "Spy Thrillers" : "/browse/genre/9147",
-  "Stage Musicals" : "/browse/genre/55774",
-  "Stand-up Comedy" : "/browse/genre/11559",
-  "Steamy Romantic Movies" : "/browse/genre/35800",
-  "Steamy Thrillers" : "/browse/genre/972",
-  "Supernatural Horror Movies" : "/browse/genre/42023",
-  "Supernatural Thrillers" : "/browse/genre/11140",
-  "Tearjerkers" : "/browse/genre/6384",
-  "Teen Comedies" : "/browse/genre/3519",
-  "Teen Dramas" : "/browse/genre/9299",
-  "Teen Screams" : "/browse/genre/52147",
-  "Teen TV Shows" : "/browse/genre/60951",
-  "Thrillers" : "/browse/genre/8933",
-  "Travel &amp; Adventure Documentaries" : "/browse/genre/1159",
-  "TV Action &amp; Adventure" : "/browse/genre/10673",
-  "TV Cartoons" : "/browse/genre/11177",
-  "TV Comedies" : "/browse/genre/10375",
-  "TV Documentaries" : "/browse/genre/10105",
-  "TV Dramas" : "/browse/genre/11714",
-  "TV Horror" : "/browse/genre/83059",
-  "TV Mysteries" : "/browse/genre/4366",
-  "TV Sci-Fi &amp; Fantasy" : "/browse/genre/1372",
-  "TV Shows" : "/browse/genre/83",
-  "Urban &amp; Dance Concerts" : "/browse/genre/9472",
-  "Vampire Horror Movies" : "/browse/genre/75804",
-  "Werewolf Horror Movies" : "/browse/genre/75930",
-  "Westerns" : "/browse/genre/7700",
-  "World Music Concerts" : "/browse/genre/2856",
-  "Zombie Horror Movies" : "/browse/genre/75405"
-}
+[
+  {
+    "category": "Action &amp; Adventure",
+    "href": "/browse/genre/1365"
+  },
+  {
+    "category": "Action Comedies",
+    "href": "/browse/genre/43040"
+  },
+  {
+    "category": "Action Sci-Fi &amp; Fantasy",
+    "href": "/browse/genre/1568"
+  },
+  {
+    "category": "Action Thrillers",
+    "href": "/browse/genre/43048"
+  },
+  {
+    "category": "Adult Animation",
+    "href": "/browse/genre/11881"
+  },
+  {
+    "category": "Adventures",
+    "href": "/browse/genre/7442"
+  },
+  {
+    "category": "African Movies",
+    "href": "/browse/genre/3761"
+  },
+  {
+    "category": "Alien Sci-Fi",
+    "href": "/browse/genre/3327"
+  },
+  {
+    "category": "Animal Tales",
+    "href": "/browse/genre/5507"
+  },
+  {
+    "category": "Anime",
+    "href": "/browse/genre/7424"
+  },
+  {
+    "category": "Anime Action",
+    "href": "/browse/genre/2653"
+  },
+  {
+    "category": "Anime Comedies",
+    "href": "/browse/genre/9302"
+  },
+  {
+    "category": "Anime Dramas",
+    "href": "/browse/genre/452"
+  },
+  {
+    "category": "Anime Fantasy",
+    "href": "/browse/genre/11146"
+  },
+  {
+    "category": "Anime Features",
+    "href": "/browse/genre/3063"
+  },
+  {
+    "category": "Anime Horror",
+    "href": "/browse/genre/10695"
+  },
+  {
+    "category": "Anime Sci-Fi",
+    "href": "/browse/genre/2729"
+  },
+  {
+    "category": "Anime Series",
+    "href": "/browse/genre/6721"
+  },
+  {
+    "category": "Art House Movies",
+    "href": "/browse/genre/29764"
+  },
+  {
+    "category": "Asian Action Movies",
+    "href": "/browse/genre/77232"
+  },
+  {
+    "category": "Australian Movies",
+    "href": "/browse/genre/5230"
+  },
+  {
+    "category": "B-Horror Movies",
+    "href": "/browse/genre/8195"
+  },
+  {
+    "category": "Baseball Movies",
+    "href": "/browse/genre/12339"
+  },
+  {
+    "category": "Basketball Movies",
+    "href": "/browse/genre/12762"
+  },
+  {
+    "category": "Belgian Movies",
+    "href": "/browse/genre/262"
+  },
+  {
+    "category": "Biographical Documentaries",
+    "href": "/browse/genre/3652"
+  },
+  {
+    "category": "Biographical Dramas",
+    "href": "/browse/genre/3179"
+  },
+  {
+    "category": "Boxing Movies",
+    "href": "/browse/genre/12443"
+  },
+  {
+    "category": "British Movies",
+    "href": "/browse/genre/10757"
+  },
+  {
+    "category": "British TV Shows",
+    "href": "/browse/genre/52117"
+  },
+  {
+    "category": "Campy Movies",
+    "href": "/browse/genre/1252"
+  },
+  {
+    "category": "Children &amp; Family Movies",
+    "href": "/browse/genre/783"
+  },
+  {
+    "category": "Chinese Movies",
+    "href": "/browse/genre/3960"
+  },
+  {
+    "category": "Classic Action &amp; Adventure",
+    "href": "/browse/genre/46576"
+  },
+  {
+    "category": "Classic Comedies",
+    "href": "/browse/genre/31694"
+  },
+  {
+    "category": "Classic Dramas",
+    "href": "/browse/genre/29809"
+  },
+  {
+    "category": "Classic Foreign Movies",
+    "href": "/browse/genre/32473"
+  },
+  {
+    "category": "Classic Movies",
+    "href": "/browse/genre/31574"
+  },
+  {
+    "category": "Classic Musicals",
+    "href": "/browse/genre/32392"
+  },
+  {
+    "category": "Classic Romantic Movies",
+    "href": "/browse/genre/31273"
+  },
+  {
+    "category": "Classic Sci-Fi &amp; Fantasy",
+    "href": "/browse/genre/47147"
+  },
+  {
+    "category": "Classic Thrillers",
+    "href": "/browse/genre/46588"
+  },
+  {
+    "category": "Classic TV Shows",
+    "href": "/browse/genre/46553"
+  },
+  {
+    "category": "Classic War Movies",
+    "href": "/browse/genre/48744"
+  },
+  {
+    "category": "Classic Westerns",
+    "href": "/browse/genre/47465"
+  },
+  {
+    "category": "Comedies",
+    "href": "/browse/genre/6548"
+  },
+  {
+    "category": "Comic Book and Superhero Movies",
+    "href": "/browse/genre/10118"
+  },
+  {
+    "category": "Country &amp; Western/Folk",
+    "href": "/browse/genre/1105"
+  },
+  {
+    "category": "Courtroom Dramas",
+    "href": "/browse/genre/528582748"
+  },
+  {
+    "category": "Creature Features",
+    "href": "/browse/genre/6895"
+  },
+  {
+    "category": "Crime Action &amp; Adventure",
+    "href": "/browse/genre/9584"
+  },
+  {
+    "category": "Crime Documentaries",
+    "href": "/browse/genre/9875"
+  },
+  {
+    "category": "Crime Dramas",
+    "href": "/browse/genre/6889"
+  },
+  {
+    "category": "Crime Thrillers",
+    "href": "/browse/genre/10499"
+  },
+  {
+    "category": "Crime TV Shows",
+    "href": "/browse/genre/26146"
+  },
+  {
+    "category": "Cult Comedies",
+    "href": "/browse/genre/9434"
+  },
+  {
+    "category": "Cult Horror Movies",
+    "href": "/browse/genre/10944"
+  },
+  {
+    "category": "Cult Movies",
+    "href": "/browse/genre/7627"
+  },
+  {
+    "category": "Cult Sci-Fi &amp; Fantasy",
+    "href": "/browse/genre/4734"
+  },
+  {
+    "category": "Cult TV Shows",
+    "href": "/browse/genre/74652"
+  },
+  {
+    "category": "Dark Comedies",
+    "href": "/browse/genre/869"
+  },
+  {
+    "category": "Deep Sea Horror Movies",
+    "href": "/browse/genre/45028"
+  },
+  {
+    "category": "Disney",
+    "href": "/browse/genre/67673"
+  },
+  {
+    "category": "Disney Musicals",
+    "href": "/browse/genre/59433"
+  },
+  {
+    "category": "Documentaries",
+    "href": "/browse/genre/6839"
+  },
+  {
+    "category": "Dramas",
+    "href": "/browse/genre/5763"
+  },
+  {
+    "category": "Dramas based on Books",
+    "href": "/browse/genre/4961"
+  },
+  {
+    "category": "Dramas based on real life",
+    "href": "/browse/genre/3653"
+  },
+  {
+    "category": "Dutch Movies",
+    "href": "/browse/genre/10606"
+  },
+  {
+    "category": "Eastern European Movies",
+    "href": "/browse/genre/5254"
+  },
+  {
+    "category": "Education for Kids",
+    "href": "/browse/genre/10659"
+  },
+  {
+    "category": "Epics",
+    "href": "/browse/genre/52858"
+  },
+  {
+    "category": "Experimental Movies",
+    "href": "/browse/genre/11079"
+  },
+  {
+    "category": "Faith &amp; Spirituality",
+    "href": "/browse/genre/26835"
+  },
+  {
+    "category": "Faith &amp; Spirituality Movies",
+    "href": "/browse/genre/52804"
+  },
+  {
+    "category": "Family Features",
+    "href": "/browse/genre/51056"
+  },
+  {
+    "category": "Fantasy Movies",
+    "href": "/browse/genre/9744"
+  },
+  {
+    "category": "Film Noir",
+    "href": "/browse/genre/7687"
+  },
+  {
+    "category": "Food &amp; Travel TV",
+    "href": "/browse/genre/72436"
+  },
+  {
+    "category": "Football Movies",
+    "href": "/browse/genre/12803"
+  },
+  {
+    "category": "Foreign Action &amp; Adventure",
+    "href": "/browse/genre/11828"
+  },
+  {
+    "category": "Foreign Comedies",
+    "href": "/browse/genre/4426"
+  },
+  {
+    "category": "Foreign Documentaries",
+    "href": "/browse/genre/5161"
+  },
+  {
+    "category": "Foreign Dramas",
+    "href": "/browse/genre/2150"
+  },
+  {
+    "category": "Foreign Gay &amp; Lesbian Movies",
+    "href": "/browse/genre/8243"
+  },
+  {
+    "category": "Foreign Horror Movies",
+    "href": "/browse/genre/8654"
+  },
+  {
+    "category": "Foreign Movies",
+    "href": "/browse/genre/7462"
+  },
+  {
+    "category": "Foreign Sci-Fi &amp; Fantasy",
+    "href": "/browse/genre/6485"
+  },
+  {
+    "category": "Foreign Thrillers",
+    "href": "/browse/genre/10306"
+  },
+  {
+    "category": "French Movies",
+    "href": "/browse/genre/58807"
+  },
+  {
+    "category": "Gangster Movies",
+    "href": "/browse/genre/31851"
+  },
+  {
+    "category": "Gay &amp; Lesbian Dramas",
+    "href": "/browse/genre/500"
+  },
+  {
+    "category": "German Movies",
+    "href": "/browse/genre/58886"
+  },
+  {
+    "category": "Greek Movies",
+    "href": "/browse/genre/61115"
+  },
+  {
+    "category": "Historical Documentaries",
+    "href": "/browse/genre/5349"
+  },
+  {
+    "category": "Horror Comedy",
+    "href": "/browse/genre/89585"
+  },
+  {
+    "category": "Horror Movies",
+    "href": "/browse/genre/8711"
+  },
+  {
+    "category": "Independent Action &amp; Adventure",
+    "href": "/browse/genre/11804"
+  },
+  {
+    "category": "Independent Comedies",
+    "href": "/browse/genre/4195"
+  },
+  {
+    "category": "Independent Dramas",
+    "href": "/browse/genre/384"
+  },
+  {
+    "category": "Independent Movies",
+    "href": "/browse/genre/7077"
+  },
+  {
+    "category": "Independent Thrillers",
+    "href": "/browse/genre/3269"
+  },
+  {
+    "category": "Indian Movies",
+    "href": "/browse/genre/10463"
+  },
+  {
+    "category": "Irish Movies",
+    "href": "/browse/genre/58750"
+  },
+  {
+    "category": "Italian Movies",
+    "href": "/browse/genre/8221"
+  },
+  {
+    "category": "Japanese Movies",
+    "href": "/browse/genre/10398"
+  },
+  {
+    "category": "Jazz &amp; Easy Listening",
+    "href": "/browse/genre/10271"
+  },
+  {
+    "category": "Kids Faith &amp; Spirituality",
+    "href": "/browse/genre/751423"
+  },
+  {
+    "category": "Kids Music",
+    "href": "/browse/genre/52843"
+  },
+  {
+    "category": "Kids' TV",
+    "href": "/browse/genre/27346"
+  },
+  {
+    "category": "Korean Movies",
+    "href": "/browse/genre/5685"
+  },
+  {
+    "category": "Korean TV Shows",
+    "href": "/browse/genre/67879"
+  },
+  {
+    "category": "Late Night Comedies",
+    "href": "/browse/genre/1402"
+  },
+  {
+    "category": "Latin American Movies",
+    "href": "/browse/genre/1613"
+  },
+  {
+    "category": "Latin Music",
+    "href": "/browse/genre/10741"
+  },
+  {
+    "category": "Martial Arts Movies",
+    "href": "/browse/genre/8985"
+  },
+  {
+    "category": "Martial Arts, Boxing &amp; Wrestling",
+    "href": "/browse/genre/6695"
+  },
+  {
+    "category": "Middle Eastern Movies",
+    "href": "/browse/genre/5875"
+  },
+  {
+    "category": "Military Action &amp; Adventure",
+    "href": "/browse/genre/2125"
+  },
+  {
+    "category": "Military Documentaries",
+    "href": "/browse/genre/4006"
+  },
+  {
+    "category": "Military Dramas",
+    "href": "/browse/genre/11"
+  },
+  {
+    "category": "Military TV Shows",
+    "href": "/browse/genre/25804"
+  },
+  {
+    "category": "Miniseries",
+    "href": "/browse/genre/4814"
+  },
+  {
+    "category": "Mockumentaries",
+    "href": "/browse/genre/26"
+  },
+  {
+    "category": "Monster Movies",
+    "href": "/browse/genre/947"
+  },
+  {
+    "category": "Movies based on children's books",
+    "href": "/browse/genre/10056"
+  },
+  {
+    "category": "Movies for ages 0 to 2",
+    "href": "/browse/genre/6796"
+  },
+  {
+    "category": "Movies for ages 2 to 4",
+    "href": "/browse/genre/6218"
+  },
+  {
+    "category": "Movies for ages 5 to 7",
+    "href": "/browse/genre/5455"
+  },
+  {
+    "category": "Movies for ages 8 to 10",
+    "href": "/browse/genre/561"
+  },
+  {
+    "category": "Movies for ages 11 to 12",
+    "href": "/browse/genre/6962"
+  },
+  {
+    "category": "Music &amp; Concert Documentaries",
+    "href": "/browse/genre/90361"
+  },
+  {
+    "category": "Music",
+    "href": "/browse/genre/1701"
+  },
+  {
+    "category": "Musicals",
+    "href": "/browse/genre/13335"
+  },
+  {
+    "category": "Mysteries",
+    "href": "/browse/genre/9994"
+  },
+  {
+    "category": "New Zealand Movies",
+    "href": "/browse/genre/63782"
+  },
+  {
+    "category": "Period Pieces",
+    "href": "/browse/genre/12123"
+  },
+  {
+    "category": "Political Comedies",
+    "href": "/browse/genre/2700"
+  },
+  {
+    "category": "Political Documentaries",
+    "href": "/browse/genre/7018"
+  },
+  {
+    "category": "Political Dramas",
+    "href": "/browse/genre/6616"
+  },
+  {
+    "category": "Political Thrillers",
+    "href": "/browse/genre/10504"
+  },
+  {
+    "category": "Psychological Thrillers",
+    "href": "/browse/genre/5505"
+  },
+  {
+    "category": "Quirky Romance",
+    "href": "/browse/genre/36103"
+  },
+  {
+    "category": "Reality TV",
+    "href": "/browse/genre/9833"
+  },
+  {
+    "category": "Religious Documentaries",
+    "href": "/browse/genre/10005"
+  },
+  {
+    "category": "Rock &amp; Pop Concerts",
+    "href": "/browse/genre/3278"
+  },
+  {
+    "category": "Romantic Comedies",
+    "href": "/browse/genre/5475"
+  },
+  {
+    "category": "Romantic Dramas",
+    "href": "/browse/genre/1255"
+  },
+  {
+    "category": "Romantic Favorites",
+    "href": "/browse/genre/502675"
+  },
+  {
+    "category": "Romantic Foreign Movies",
+    "href": "/browse/genre/7153"
+  },
+  {
+    "category": "Romantic Independent Movies",
+    "href": "/browse/genre/9916"
+  },
+  {
+    "category": "Romantic Movies",
+    "href": "/browse/genre/8883"
+  },
+  {
+    "category": "Russian",
+    "href": "/browse/genre/11567"
+  },
+  {
+    "category": "Satanic Stories",
+    "href": "/browse/genre/6998"
+  },
+  {
+    "category": "Satires",
+    "href": "/browse/genre/4922"
+  },
+  {
+    "category": "Scandinavian Movies",
+    "href": "/browse/genre/9292"
+  },
+  {
+    "category": "Sci-Fi &amp; Fantasy",
+    "href": "/browse/genre/1492"
+  },
+  {
+    "category": "Sci-Fi Adventure",
+    "href": "/browse/genre/6926"
+  },
+  {
+    "category": "Sci-Fi Dramas",
+    "href": "/browse/genre/3916"
+  },
+  {
+    "category": "Sci-Fi Horror Movies",
+    "href": "/browse/genre/1694"
+  },
+  {
+    "category": "Sci-Fi Thrillers",
+    "href": "/browse/genre/11014"
+  },
+  {
+    "category": "Science &amp; Nature Documentaries",
+    "href": "/browse/genre/2595"
+  },
+  {
+    "category": "Science &amp; Nature TV",
+    "href": "/browse/genre/52780"
+  },
+  {
+    "category": "Screwball Comedies",
+    "href": "/browse/genre/9702"
+  },
+  {
+    "category": "Showbiz Dramas",
+    "href": "/browse/genre/5012"
+  },
+  {
+    "category": "Showbiz Musicals",
+    "href": "/browse/genre/13573"
+  },
+  {
+    "category": "Silent Movies",
+    "href": "/browse/genre/53310"
+  },
+  {
+    "category": "Slapstick Comedies",
+    "href": "/browse/genre/10256"
+  },
+  {
+    "category": "Slasher and Serial Killer Movies",
+    "href": "/browse/genre/8646"
+  },
+  {
+    "category": "Soccer Movies",
+    "href": "/browse/genre/12549"
+  },
+  {
+    "category": "Social &amp; Cultural Documentaries",
+    "href": "/browse/genre/3675"
+  },
+  {
+    "category": "Social Issue Dramas",
+    "href": "/browse/genre/3947"
+  },
+  {
+    "category": "Southeast Asian Movies",
+    "href": "/browse/genre/9196"
+  },
+  {
+    "category": "Spanish Movies",
+    "href": "/browse/genre/58741"
+  },
+  {
+    "category": "Spiritual Documentaries",
+    "href": "/browse/genre/2760"
+  },
+  {
+    "category": "Sports &amp; Fitness",
+    "href": "/browse/genre/9327"
+  },
+  {
+    "category": "Sports Comedies",
+    "href": "/browse/genre/5286"
+  },
+  {
+    "category": "Sports Documentaries",
+    "href": "/browse/genre/180"
+  },
+  {
+    "category": "Sports Dramas",
+    "href": "/browse/genre/7243"
+  },
+  {
+    "category": "Sports Movies",
+    "href": "/browse/genre/4370"
+  },
+  {
+    "category": "Spy Action &amp; Adventure",
+    "href": "/browse/genre/10702"
+  },
+  {
+    "category": "Spy Thrillers",
+    "href": "/browse/genre/9147"
+  },
+  {
+    "category": "Stage Musicals",
+    "href": "/browse/genre/55774"
+  },
+  {
+    "category": "Stand-up Comedy",
+    "href": "/browse/genre/11559"
+  },
+  {
+    "category": "Steamy Romantic Movies",
+    "href": "/browse/genre/35800"
+  },
+  {
+    "category": "Steamy Thrillers",
+    "href": "/browse/genre/972"
+  },
+  {
+    "category": "Supernatural Horror Movies",
+    "href": "/browse/genre/42023"
+  },
+  {
+    "category": "Supernatural Thrillers",
+    "href": "/browse/genre/11140"
+  },
+  {
+    "category": "Tearjerkers",
+    "href": "/browse/genre/6384"
+  },
+  {
+    "category": "Teen Comedies",
+    "href": "/browse/genre/3519"
+  },
+  {
+    "category": "Teen Dramas",
+    "href": "/browse/genre/9299"
+  },
+  {
+    "category": "Teen Screams",
+    "href": "/browse/genre/52147"
+  },
+  {
+    "category": "Teen TV Shows",
+    "href": "/browse/genre/60951"
+  },
+  {
+    "category": "Thrillers",
+    "href": "/browse/genre/8933"
+  },
+  {
+    "category": "Travel &amp; Adventure Documentaries",
+    "href": "/browse/genre/1159"
+  },
+  {
+    "category": "TV Action &amp; Adventure",
+    "href": "/browse/genre/10673"
+  },
+  {
+    "category": "TV Cartoons",
+    "href": "/browse/genre/11177"
+  },
+  {
+    "category": "TV Comedies",
+    "href": "/browse/genre/10375"
+  },
+  {
+    "category": "TV Documentaries",
+    "href": "/browse/genre/10105"
+  },
+  {
+    "category": "TV Dramas",
+    "href": "/browse/genre/11714"
+  },
+  {
+    "category": "TV Horror",
+    "href": "/browse/genre/83059"
+  },
+  {
+    "category": "TV Mysteries",
+    "href": "/browse/genre/4366"
+  },
+  {
+    "category": "TV Sci-Fi &amp; Fantasy",
+    "href": "/browse/genre/1372"
+  },
+  {
+    "category": "TV Shows",
+    "href": "/browse/genre/83"
+  },
+  {
+    "category": "Urban &amp; Dance Concerts",
+    "href": "/browse/genre/9472"
+  },
+  {
+    "category": "Vampire Horror Movies",
+    "href": "/browse/genre/75804"
+  },
+  {
+    "category": "Werewolf Horror Movies",
+    "href": "/browse/genre/75930"
+  },
+  {
+    "category": "Westerns",
+    "href": "/browse/genre/7700"
+  },
+  {
+    "category": "World Music Concerts",
+    "href": "/browse/genre/2856"
+  },
+  {
+    "category": "Zombie Horror Movies",
+    "href": "/browse/genre/75405"
+  }
+]

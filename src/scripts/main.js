@@ -3,7 +3,7 @@ function loadJSON() {
     xhr.open("GET", chrome.runtime.getURL("data/categories.json"));
     xhr.onreadystatechange = function() {
         if (this.readyState == 4) {
-            window.categories = JSON.parse(xhr.responseText);
+            window.extendedCategories = JSON.parse(xhr.responseText);
         }
     };
     xhr.send();
@@ -29,21 +29,29 @@ function init() {
             '</div>' +
         '</div>';
 
-
-    // Set previousLetter varibale for letter headings
     function build(value) {
-        var categories = window.categories;
+        var categories = window.extendedCategories;
+        console.log(categories);
         var previousLetter = "";
         var extendedNetflixList = document.getElementById("extended-netflix-list");
         var builder = [];
-        for (var name in categories) {
-            if (categories.hasOwnProperty(name) && name.toLowerCase().indexOf(value) != -1) {
-                var href = categories[name];
-                if (name.charAt(0) !== previousLetter) {
-                    builder.push('<li class="sub-menu-item listings extended-netflix-heading"><h2>' + name.charAt(0) + '</h2><hr></li>');
+        for (var i = 0; i < categories.length; i++) {
+            var category = categories[i].category;
+            var matchValues = value.split(' ');
+            var matchBool = true;
+            for (var e = 0; e < matchValues.length; e++) {
+                if (category.toLowerCase().indexOf(matchValues[e]) === -1) {
+                    matchBool = false;
+                    break;
                 }
-                builder.push('<li class="sub-menu-item listings extended-netflix-item"><a class="sub-menu-link" href="' + href + '">' + name + '</a></li>');
-                previousLetter = name.charAt(0);
+            }
+            if (matchBool) {
+                var href = categories[i].href;
+                if (category.charAt(0) !== previousLetter) {
+                    builder.push('<li class="sub-menu-item listings extended-netflix-heading"><h2>' + category.charAt(0) + '</h2><hr></li>');
+                }
+                builder.push('<li class="sub-menu-item listings extended-netflix-item"><a class="sub-menu-link" href="' + href + '">' + category + '</a></li>');
+                previousLetter = category.charAt(0);
             }
         }
         if (builder.length === 0){
@@ -52,24 +60,14 @@ function init() {
         extendedNetflixList.innerHTML = builder.join('');
     }
     build('');
-    var x = new MutationObserver(function (e) {
-        if (e[0].removedNodes) init();
-    });
 
-    x.observe(document.getElementById('extended-netflix'), {childList: true});
     var search = document.getElementById("extended-netflix-search");
-    var timeout = null;
     search.onkeyup = function (){
-        if (timeout !== null) {
-            clearTimeout(timeout);
-        }
-        timeout = setTimeout(function () {
-            build(search.value.toLowerCase());
-        }, 300);
+        build(search.value.toLowerCase());
     };
 }
 
 loadJSON();
 setTimeout(function () {
     init();
-}, 100);
+}, 500);
