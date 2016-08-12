@@ -1,6 +1,6 @@
 {
   "name": "extended-netflix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extended browsing categories for Netflix",
   "main": "src/scripts/main.js",
   "scripts": {

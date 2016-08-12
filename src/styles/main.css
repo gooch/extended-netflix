@@ -37,11 +37,17 @@
     border-bottom-left-radius: 3px;
     border-bottom-right-radius: 3px;
     height: 400px;
-    overflow-x:hidden;
     opacity: 0;
     position: absolute;
     transition: all .2s;
     visibility: hidden;
+}
+
+.extended-netflix-list-wrapper {
+    height: 368px;
+    overflow-x:hidden;
+    position: absolute;
+    width: 100%;
 }
 
 #extended-netflix-menu hr {
@@ -51,7 +57,7 @@
 }
 
 #extended-netflix-search-container {
-    margin: 16px;
+    margin: 16px 16px 5px;
     width: calc(100% - 32px);
 }
 

@@ -18,12 +18,15 @@ function init() {
     target.insertBefore(exLi, target.firstChild);
 
     var extendedNetflix = document.getElementById("extended-netflix");
-    extendedNetflix.innerHTML += '<div id="extended-netflix-menu" class="sub-menu genreNav hasSpecialItems">' +
-        '<div id="extended-netflix-search-container" class="searchInput isOpen">' +
-        '<span class="icon-search"></span>' +
-        '<input type="text" id="extended-netflix-search" value="" placeholder="Search genres">' +
-        '</div>' +
-        '<ul id="extended-netflix-list" class="sub-menu-list multi-column"></ul>' +
+    extendedNetflix.innerHTML +=
+        '<div id="extended-netflix-menu" class="sub-menu genreNav hasSpecialItems">' +
+            '<div id="extended-netflix-search-container" class="searchInput isOpen">' +
+                '<span class="icon-search"></span>' +
+                '<input type="text" id="extended-netflix-search" value="" placeholder="Search genres">' +
+            '</div>' +
+            '<div class="extended-netflix-list-wrapper">' +
+                '<ul id="extended-netflix-list" class="sub-menu-list multi-column"></ul>' +
+            '</div>' +
         '</div>';
 
 
